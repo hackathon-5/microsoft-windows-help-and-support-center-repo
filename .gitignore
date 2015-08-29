@@ -2,3 +2,5 @@ env
 *.DS_Store
 *.pyc
 __pycache__
+MSPartyDjango/.idea
+MSPartyDjango/.idea/*
